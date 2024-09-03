@@ -1,0 +1,21 @@
+{
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "vscode-icons-team.vscode-icons",
+        "esbenp.prettier-vscode",
+        "xdebug.php-debug",
+        "formulahendry.auto-rename-tag",
+        "bmewburn.vscode-intelephense-client",
+    		"amatiasq.sort-imports",
+    		"ms-azuretools.vscode-docker",
+    		"ecmel.vscode-html-css",
+    		"kamikillerto.vscode-colorize",
+    		"wix.vscode-import-cost",
+    		"ChakrounAnas.turbo-console-log",
+    		"WallabyJs.quokka-vscode",
+    		"hediet.vscode-drawio",
+    		"yoavbls.pretty-ts-errors",
+    		"orta.vscode-jest",
+    		"firsttris.vscode-jest-runner"
+    ]
+}
